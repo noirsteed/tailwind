@@ -1,0 +1,15 @@
+name: tailwind
+version: 0.0.0
+publish_to: none
+
+environment:
+  sdk: ^2.15.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
